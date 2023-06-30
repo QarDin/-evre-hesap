@@ -4,3 +4,7 @@ alan=int(kisa)*int(uzun)
 cevre=2*(int(kisa)+int(uzun))
 print("Alan : {0}".format(alan))
 print("Çevre : {0}".format(cevre))
+
+int sayi1 = 10;
+int sayi2 = 5;
+int cevre = sayi1 * sayi2;
